@@ -1,1 +1,1 @@
-# Tugas Kerja Praktik pemgrograman Golang (1301170353)
+# TASK2 Kerja Praktik pemgrograman Golang (1301170353)
